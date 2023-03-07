@@ -1,4 +1,4 @@
-<h1 align="center"> Object Detection in Images </h1>
+<h1 align="center"> Object Recognition in Images </h1>
  
 ![cifar](https://user-images.githubusercontent.com/110327175/223373086-31208db0-5185-4ae3-bc02-c24bda5acd37.png)
 
